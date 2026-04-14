@@ -1,3 +1,5 @@
+Landon Norris
+MAE 3403
 #region imports
 import PyQt5.QtWidgets as qtw
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg
