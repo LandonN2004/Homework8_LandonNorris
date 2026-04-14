@@ -1,3 +1,5 @@
+Landon Norris
+MAE 3403
 #region imports
 import numpy as np
 import PyQt5.QtWidgets as qtw
